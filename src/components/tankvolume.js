@@ -115,7 +115,7 @@ const Tankvolume = () => {
                   {currentConversion === "1" || currentConversion === "2" || currentConversion === "3" ? 
                   <div className="form-group">
                   <label
-                    className="col-form-label col-md-4 mr-2"
+                    className="col-form-label col-md-4 m-1"
                     for="input-height"
                   >
                     Height
@@ -134,7 +134,7 @@ const Tankvolume = () => {
                   {currentConversion === '1' || currentConversion ==="2" ? 
                   <div className="form-group">
                     <label
-                      className="col-form-label col-md-4 mr-2"
+                      className="col-form-label col-md-4 m-1"
                       for="input-diameter"
                     >
                       Diameter
@@ -153,7 +153,7 @@ const Tankvolume = () => {
                   {currentConversion === "2" ? 
                   <div className="form-group">
                     <label
-                      className="col-form-label col-md-4 mr-2"
+                      className="col-form-label col-md-4 m-1"
                       for="input-bottom-diameter"
                     >
                       Botton Diameter
@@ -172,7 +172,7 @@ const Tankvolume = () => {
                   {currentConversion === "3" ?
                   <div className="form-group">
                     <label
-                      className="col-form-label col-md-4 mr-2"
+                      className="col-form-label col-md-4 m-1"
                       for="input-length"
                     >
                       Length
@@ -191,7 +191,7 @@ const Tankvolume = () => {
                   {currentConversion === "3" ?
                   <div className="form-group">
                     <label
-                      className="col-form-label col-md-4 mr-2"
+                      className="col-form-label col-md-4 m-1"
                       for="input-width"
                     >
                       Width
@@ -213,7 +213,7 @@ const Tankvolume = () => {
 
                     <div className="form-group">
                     <label
-                      className="col-form-label col-md-4 mr-2"
+                      className="col-form-label col-md-4 m-1"
                       for="input-width"
                     >
                       Tank Volume
@@ -233,10 +233,10 @@ const Tankvolume = () => {
 
                   <div className="form-group">
                     <label
-                      className="col-form-label col-md-4 mr-2"
+                      className="col-form-label col-md-4 m-1"
                       for="input-width"
                     >
-                      Total Capacity in L
+                      Capacity in L
                     </label>
                     <input
                       className="form-control-sm col-md-4"
