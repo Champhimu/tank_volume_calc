@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tank_volume_calc/static/css/main.38be36b0.css",
-    "main.js": "/tank_volume_calc/static/js/main.faf489f7.js",
+    "main.js": "/tank_volume_calc/static/js/main.a2593eea.js",
     "static/media/overview.png": "/tank_volume_calc/static/media/overview.311da1e8905f4c6c244c.png",
     "static/media/inv_piram.png": "/tank_volume_calc/static/media/inv_piram.70886827394dfc237cd3.png",
     "static/media/vert_stad.png": "/tank_volume_calc/static/media/vert_stad.f4172e2387615b987ea4.png",
@@ -13,10 +13,10 @@
     "static/media/frustrum.png": "/tank_volume_calc/static/media/frustrum.dffc2b7ac62da6a29069.png",
     "index.html": "/tank_volume_calc/index.html",
     "main.38be36b0.css.map": "/tank_volume_calc/static/css/main.38be36b0.css.map",
-    "main.faf489f7.js.map": "/tank_volume_calc/static/js/main.faf489f7.js.map"
+    "main.a2593eea.js.map": "/tank_volume_calc/static/js/main.a2593eea.js.map"
   },
   "entrypoints": [
     "static/css/main.38be36b0.css",
-    "static/js/main.faf489f7.js"
+    "static/js/main.a2593eea.js"
   ]
 }
